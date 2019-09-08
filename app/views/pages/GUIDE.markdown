@@ -35,6 +35,7 @@ Please add yourself to this list (link is optional) if you've contributed to thi
 - [Brandon Lucier](https://blucier.com/)  
 - [Ferruccio Sisti](https://github.com/FerruccioSisti)
 - [Steven Shlimoon](https://github.com/shli3)
+- [Filip Knezevic](https://github.com/WiFilip)
 
 # Courses
 ------------
@@ -108,8 +109,8 @@ Your degree audit will have a section called *"Any Area of Study"* that allows y
 
 List of bird courses:
 
-- **ECON-1100 Introduction to Economics I** - Harshdip found this course easy. The midterms and finals were all multiple choice.
-- **ECON-1110 Introduction to Economics II**
+- **ECON-1100 Introduction to Economics I** - Harshdip found this course easy. The midterms and finals were all multiple choice. **Note: The professor who taught this class that made it easy no longer teaches it. Will need to be updated at end of semester to reflect actual difficulty of the course.**
+- **ECON-1110 Introduction to Economics II** **Likewise with this course.**
 - **COMP-2067 Programming for Beginners**
 - **COMP-2057 Intro to the Internet** - Eric found this course *very* easy, just simple HTML/CSS assignments.
 - **COMP-2097 Social Media and Mobile Technology for End Users** - Eric found this course easy but busy with assignments/projects.
