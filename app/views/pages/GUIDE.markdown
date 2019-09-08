@@ -108,7 +108,7 @@ Your degree audit will have a section called *"Any Area of Study"* that allows y
 
 List of bird courses:
 
-- **ECON-1100 Introduction to Economics I** - Harshdip found this course easy. The midterms and finals were all multiple choice.
+- **ECON-1100 Introduction to Economics I** - Harshdip found this course easy. The midterms and finals were all multiple choice. Course is quite easy online.
 - **ECON-1110 Introduction to Economics II**
 - **COMP-2067 Programming for Beginners**
 - **COMP-2057 Intro to the Internet** - Eric found this course *very* easy, just simple HTML/CSS assignments.
